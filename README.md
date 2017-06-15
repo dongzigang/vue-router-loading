@@ -22,7 +22,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 <h3>实现原理</h3>
 1. 可以在vuex中维护一个isLoading 的变量
-
 2. 在 router.beforeEach 钩子中 设置 isLoading = true , 在 router.afterEach 中 设置 isLoading = false 
 
 ```js
