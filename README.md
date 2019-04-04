@@ -64,3 +64,7 @@ new Vue({
 
 ```
 这个 Loading组件根据这个isLoading值来决定是否显示loading动画。
+
+
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
